@@ -9,7 +9,7 @@ TANG币信息
 
 最大供应量：227.5万亿(与2021年5月RMB的M2供应量相同。无mint功能，无法增发。Tangpingers可放心持币睡觉)
 
-交易所链接：（Pancake Swap是BSC上最大交易所，放心可靠）
+交易所链接：https://exchange.pancakeswap.finance/#/swap?inputCurrency=0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c&outputCurrency=0xb50e803d11cd371ad3822836083e5796bd3a4563">在Pancake购买（点开链接后，需要耐心等待20秒。Pancake Swap是BSC上最大交易所，放心可靠）
 
 代币分配
 提供流动性：10% ，钱包地址：0x6b363c81690cc7cada3490e282390D886D61B2F9
